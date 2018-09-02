@@ -9,7 +9,7 @@ Economic Immigrants: South Africa and Canada
 
 To assess assimilation rate, I look at the economic outcomes of each group between 2000 and 2010, looking at:  wages; the probability of being employed, and; the probability of working in a "high skilled" job. 
 
-In this repository:
+## In this repository:
 
 1) For summary statistics for refugees, family immigrants, Economic immigrants please see summaryFamRefEcon.do, and for summary statistics for US natives, please see summarynatives.do
 
@@ -19,7 +19,7 @@ In this repository:
 
 4) In Robustnesschecks.do: I perform a test to check whether there could be endogeneity in my model(s) due to unobserved characteristics of immigrants from the global North. By removing older immigrants that are coming from Canada, whose returns to years of experience would be closer to natives' than any of the other immigrant sourcecountries in my sample, I drop Canadian immigrants that are over the age of 35 in 2000 (age >= 45 in 2010) from my sample to hopefully remove some endogeneity as per Ruiz and Vargas-Silva (2016). The second test that I perform is to investigate whether it is the presence of Cuban and Vietnamese immigrants in the refugee cohort that results in an insignificant difference in expected mean outcomes between family reunification immigrants and refugee immigrants. Literature highlights that historically Cuban and Vietnamese immigrants have been successful in the US due to ethnic enclaves if the enclave economy hypothesis is to be believed (Portes and Bach,1985).
 
-Results Summary
+## Results Summary
 I find that the average wages of family immigrants exceed average wages of economic immigrants by 2010 despite initially having lower wages. I also find that by 2010 both have very similar probability of being employed. Both results corroborate existing findings in the assimilation literature. The key difference between the two groups is that a gap in occupational prestige grows between 2000 and 2010, with family immigrants being less likely (approximately 24 percentage points less likely) than economic immigrants to work in a highly skilled job in 2010. I also find that on the whole, family reunifcation immigrants and refugees had very little differences in outcomes by 2010, despite refugees having a lower wage and a lower probability of being employed not long after arrival to the US. A significant difference is the average marginal effect of being employed in a highly skilled job: refugees were less likely to be employed in high skilled jobs by 2010, suggesting that family reunification immigrants have better occupational mobility in the long-run.
 
 
